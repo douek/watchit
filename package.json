@@ -1,0 +1,15 @@
+{
+  "name": "watchit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "watchit": "index.js"
+  },
+  "dependencies": {
+    "caporal": "^1.4.0",
+    "chalk": "^4.1.0",
+    "chokidar": "^3.4.0",
+    "lodash.debounce": "^4.0.8"
+  }
+}
